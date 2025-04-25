@@ -1,0 +1,8 @@
+{
+  "name": "gps-visualization",
+  "version": "1.0.0",
+  "description": "GPS data visualization app",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
